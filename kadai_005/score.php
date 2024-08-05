@@ -23,7 +23,7 @@
 
         $average = $total / 10;
 
-        echo $average
+        echo $average;
         ?>
     </p>
 </body>
